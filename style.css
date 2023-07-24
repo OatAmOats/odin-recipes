@@ -1,0 +1,21 @@
+/* style.css */
+
+.text {
+    font-size: 20px;
+    text-align: center;
+}
+
+#list {
+    text-align: left;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: red;
+}
+
+#t2 {
+    font-size: 25px;
+    font-weight: bold;
+}
